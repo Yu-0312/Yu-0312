@@ -19,7 +19,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yu-0312/Yu-0312/output/snake.svg"/>
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/Yu-0312/Yu-0312/output/snake.svg"/>
 </picture>
-
-> "Design is not how it looks. It is how a person's mind meets it."
->
-> "Ship it, watch someone use it, then be honest about what you saw."
