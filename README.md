@@ -1,16 +1,10 @@
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=17&color=6C5CE7&center=false&pause=100000&lines=Hi,+I'm+Yu." alt="Hi, I'm Yu."/>
   <p>
-    <code>CS &amp; Psychology</code>
-    <code>Human-Computer Interaction</code>
+    <code>Born 2008-03-12</code>
     <code>Taiwan</code>
   </p>
 </div>
-
-- I study computer science and psychology, and work where the two meet.
-- I build on the web — mostly React and TypeScript.
-- I care about why an interface works, not only that it works.
-- I'm looking for internships, and happy to help on projects I find interesting.
 
 <p>
   <samp>
