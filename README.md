@@ -8,7 +8,7 @@
 
 <p>
   <samp>
-    <a href="https://github.com/Yu-0312/yu312“>Website</a>
+    <a href="https://github.com/Yu-0312/yu312">Website</a> ·
     <a href="mailto:wang.yuchi.312@gmail.com">Email</a>
   </samp>
 </p>
