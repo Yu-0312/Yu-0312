@@ -8,8 +8,7 @@
 
 <p>
   <samp>
-    <a href="https://github.com/Yu-0312/apcs-judge">apcs-judge</a> ·
-    <a href="https://github.com/Yu-0312?tab=repositories">Repositories</a> ·
+    <a href="https://github.com/Yu-0312/yu312</a> ·
     <a href="mailto:wang.yuchi.312@gmail.com">Email</a>
   </samp>
 </p>
