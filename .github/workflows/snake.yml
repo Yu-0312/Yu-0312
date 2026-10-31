@@ -9,6 +9,7 @@ on:
     branches:
       - main
 
+# 第三方 Action 鎖定 commit SHA（tag 可以被改指向別的程式碼），這個 job 有 contents: write。
 permissions:
   contents: write
 
@@ -19,7 +20,7 @@ jobs:
 
     steps:
       - name: Generate snake SVGs
-        uses: Platane/snk@v3
+        uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -28,7 +29,7 @@ jobs:
             dist/snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865 # v4.2.0
         with:
           target_branch: output
           build_dir: dist
